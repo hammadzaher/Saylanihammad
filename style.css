@@ -1,0 +1,231 @@
+.one{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.one2>a{
+    margin-left: 25px;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #000;
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////// */
+.two{
+    display: flex;
+    justify-content: space-between;
+}
+.two1{
+    width: 40%;
+}
+.two1>h1{
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 76.56px;
+}
+.two1>p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+}
+.two1>button{
+    padding: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    border: none;
+    background-color: #000;
+    color: #fff;
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////// */
+.three{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////// */
+.four1{
+    display:flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 20px;
+}
+.four1>h2{
+    background-color: #B9FF66;
+    padding: 0px, 7px, 0px, 7px;
+    border-radius: 8px;
+    display: block;
+    width: 130px;
+    text-align: center;
+}
+.four1>span{
+    font-weight:400 ;
+    font-size: 18px;
+    line-height: 22.97px;
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////// */
+.five{
+    border: 1px solid black;
+    width: 50%;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #F3F3F3;
+}
+.five2>img{
+    background-color: #000;
+    padding: 7px;
+    border-radius: 50%;
+}
+.five3{
+    position: absolute;
+    left: 400px;
+    top: 50px;
+}
+.five1{
+    background-color: #B9FF66;
+    display: block;
+    width: 220px;
+    padding: 5px;
+    border-radius: 5px; 
+}
+.five:hover{
+    background-color: #B9FF66;
+    transition: 1.2s;
+    cursor: pointer;
+}
+
+/* /////////////////////////////////////////////////////////////////////////////////////////////// */
+.six{
+    border: 1px solid black;
+    width: 50%;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #B9FF66;
+}
+.six2>img{
+    background-color: #000;
+    padding: 7px;
+    border-radius: 50%;
+}
+.six3{
+    position: absolute;
+    left: 400px;
+    top: 50px;
+}
+.six1{
+    background-color:#F3F3F3;
+    display: block;
+    width: 220px;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+.hammad{
+    display: flex;
+    gap: 50px;
+}
+.six:hover{
+    background-color: #F3F3F3;
+    transition: 1.2s;
+    cursor: pointer;
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////// */
+.seven1{
+    display:flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    gap: 20px;
+}
+.seven1>h2{
+    background-color: #B9FF66;
+    padding: 0px, 7px, 0px, 7px;
+    border-radius: 8px;
+    display: block;
+    /* width: 130px; */
+    text-align: center;
+}
+.seven1>span{
+    font-weight:400 ;
+    font-size: 18px;
+    line-height: 22.97px;
+}
+.zaheer{
+    display: flex;
+    gap: 20px;
+}
+
+/* /////////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+.eight{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.eight1>h2{
+    background-color: #B9FF66;
+    padding: 0px, 7px, 0px, 7px;
+}
+
+
+
+.nine5>button{
+   width: 200px;
+   padding: 9px;
+   text-align: center;
+   background-color: #000;
+   color: #fff;
+}
+.nine1{
+    display: flex;
+    gap: 10px;
+}
+
+.nine0{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-between;
+    padding: 50px;
+    border-radius: 30px;
+    background-color: #F3F3F3;
+}
+
+/* ///////////
+//////////////////////////////////////////////////////////////////////////////////// */
+
+.ten{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ten3{
+    width: 150px;
+    display: flex;
+    gap: 20px;
+}
+.ten2{
+    display: flex;
+    gap: 20px;
+}
+.ten2>a{
+    text-decoration: none;
+    color: #000;
+}
